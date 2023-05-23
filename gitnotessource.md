@@ -1,4 +1,4 @@
-https://blog.csdn.net/qq_41961239/article/details/103935110
+引用地址 https://blog.csdn.net/qq_41961239/article/details/103935110
 
 # Git
 ## 一、Git基础
@@ -12,16 +12,19 @@ Git是目前世界上最先进的分布式版本控制系统。
 - Github（https://www.github.com）是一个为用户提供Git服务的网站，简单说就是一个可以放代码的地方（不过可以放的当然不仅是代码）。Github除了提供管理Git的web界面外，还提供了订阅、关注、讨论组、在线编辑器等丰富的功能。Github被称之为全球最大的基友网站。
 
 #### 2.2、Github注册
-打开Github官网：https://github.com/，点击右上角的“Sign up”按钮。
-![图片](https://github.com/RiverGod1993/shop/assets/52436327/d562d9aa-e2ad-46e1-84df-2929a0f2ffea)
-选择免费的账户类型：
-在这里插入图片描述
-提示我们需要验证邮箱：
+> 打开Github官网：https://github.com/，点击右上角的“Sign up”按钮。
+> ![图片](https://github.com/RiverGod1993/shop/assets/52436327/d562d9aa-e2ad-46e1-84df-2929a0f2ffea)
 
-在这里插入图片描述
-打开邮箱中收到的邮件，点击按钮进行验证：
-在这里插入图片描述
-至此，Github帐号注册完毕，我们将在后面会使用到本次注册的帐号。
+> 选择免费的账户类型：
+> ![图片](https://github.com/RiverGod1993/shop/assets/52436327/e1bde6cf-6ea0-49e9-8103-2552faf58ea1)
+
+> 提示我们需要验证邮箱：
+> ![图片](https://github.com/RiverGod1993/shop/assets/52436327/14eb005f-3060-4101-913d-08855b172dfd)
+
+> 打开邮箱中收到的邮件，点击按钮进行验证：
+> ![图片](https://github.com/RiverGod1993/shop/assets/52436327/9eb558c7-5604-4a95-bb03-7e5c28c9ebc6)
+> 
+> 至此，Github帐号注册完毕，我们将在后面会使用到本次注册的帐号。
 
 3、Git安装
 ①下载得到安装包，并运行
