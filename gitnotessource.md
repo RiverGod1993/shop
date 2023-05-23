@@ -12,59 +12,58 @@ Git是目前世界上最先进的分布式版本控制系统。
 - Github（https://www.github.com）是一个为用户提供Git服务的网站，简单说就是一个可以放代码的地方（不过可以放的当然不仅是代码）。Github除了提供管理Git的web界面外，还提供了订阅、关注、讨论组、在线编辑器等丰富的功能。Github被称之为全球最大的基友网站。
 
 #### 2.2、Github注册
-> 打开Github官网：https://github.com/，点击右上角的“Sign up”按钮。
+> 1.打开Github官网：https://github.com/，点击右上角的“Sign up”按钮。
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/d562d9aa-e2ad-46e1-84df-2929a0f2ffea)
 
-> 选择免费的账户类型：
+> 2.选择免费的账户类型：
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/e1bde6cf-6ea0-49e9-8103-2552faf58ea1)
 
-> 提示我们需要验证邮箱：
+> 3.提示我们需要验证邮箱：
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/14eb005f-3060-4101-913d-08855b172dfd)
 
-> 打开邮箱中收到的邮件，点击按钮进行验证：
+> 4.打开邮箱中收到的邮件，点击按钮进行验证：
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/9eb558c7-5604-4a95-bb03-7e5c28c9ebc6)
 > 
 > 至此，Github帐号注册完毕，我们将在后面会使用到本次注册的帐号。
 
 ### 3、Git安装
-> 下载得到安装包，并运行
+> 1.下载得到安装包，并运行
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/04f2d77a-15ee-4708-8cac-8c80b7a52b08)
-> 
-> 选择软件的安装位置
+
+> 2.选择软件的安装位置
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/5f071d78-b09c-417f-b1ca-f77cac44e37f)
-> 
-> 选择需安装的组件（默认即可，直接下一步）
+
+> 3.选择需安装的组件（默认即可，直接下一步）
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/7f438e09-db1a-4558-9be7-3c32757c1343)
-> 
-> 选择使用的编辑器（默认即可，直接下一步）
+
+> 4.选择使用的编辑器（默认即可，直接下一步）
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/58521846-3423-4e63-86e9-f5d13d55f010)
-> 
-> 环境变量调节
+
+> 5.环境变量调节
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/28df9028-6091-4c19-bcec-89fe6dcdfeb0)
-> 
-> 使用OpenSSH，直接下一步即可
+
+> 6.使用OpenSSH，直接下一步即可
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/dfbb3b79-276b-4d9e-a167-907da56ef39c)
-> 
-> 使用OpenSSL库
+
+> 7.使用OpenSSL库
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/02067ec9-ca6d-46a8-a416-af40b559ff18)
-> 
-> 配置命令行会话（默认即可）
+
+> 8.配置命令行会话（默认即可）
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/e41863cb-26d0-4d6e-9572-26bcb84ba439)
-> 
-> 配置终端（默认即可）
+
+> 9.配置终端（默认即可）
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/e24d64b8-b1c3-48f4-90fb-fb53acdb8e5b)
-> 
-> 配置额外的选项（默认即可）
+
+> 10.配置额外的选项（默认即可）
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/eade9a3b-5774-4085-87e0-fa7dba435d8f)
-> 
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/09b4ab51-5e8a-47dc-bad0-772a02c411db)
-> 
-> 安装完成
+
+> 11.安装完成
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/ec5737f0-89f9-4cb3-b111-17a7c1fc4bc3)
-> 
-> 在桌面空白处右键鼠标，若出现“Git GUI Here”、“Git Bash Here”则安装成功：
+
+> 12.在桌面空白处右键鼠标，若出现“Git GUI Here”、“Git Bash Here”则安装成功：
 > ![图片](https://github.com/RiverGod1993/shop/assets/52436327/271ee160-afa3-4b30-9470-430ac6a308ca)
-> 
+
 二、Git的使用
 1、本地仓库
 
